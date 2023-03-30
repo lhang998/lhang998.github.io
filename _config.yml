@@ -1,1 +1,8 @@
+name: Hang
+description: A brief description of yourself
+url: https://lhang998.github.io
+baseurl: ""
 
+# Build settings
+markdown: kramdown
+permalink: /:title/
